@@ -5,7 +5,7 @@
  MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 
-const supabase = supabase.createClient(fpttcfiznejjptwqamkk.supabase.co, eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZwdHRjZml6bmVqanB0d3FhbWtrIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzE0MzQyNDAsImV4cCI6MjA4NzAxMDI0MH0.L-TWktZlyhbbd-fP1IU7QIGzlDcHSGcPtEbDAZTTXcU);
+const supabase = supabase.createClient(fpttcfiznejjptwqamkk.supabase.co, sb_publishable_aDsQe-his4DJBMn-NJKXAw_oCu0r8pK);
 (function (global, factory) {
     typeof exports === "object" && typeof module !== "undefined"
         ? factory(exports, require("jquery"), require("popper.js"))
